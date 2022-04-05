@@ -1,6 +1,6 @@
 # AHoJ: Apo-Holo Protein Search
 
-Webserver / command line tool for customizable search of **Apo**/unbound protein structures from **Holo**/bound forms (and vice versa).
+Webserver / command line tool for customizable search of **Apo** (unbound) protein structures from **Holo** (bound) forms and vice versa.
 
 ## Features
 
