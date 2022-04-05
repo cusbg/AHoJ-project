@@ -4,7 +4,7 @@ Webserver & command-line tool for search of **Apo** (unbound) protein structures
 
 ## Features
 
-* customizable search for Apo-Holo pairs in the PDB
+* customizable search of Apo-Holo pairs in the PDB
 * alignment to the query structure
 * batch mode for fast parallel dataset processing
 * visualization via Molstar and PyMol
