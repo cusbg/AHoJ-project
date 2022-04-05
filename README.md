@@ -1,6 +1,6 @@
 # AHoJ: Apo-Holo Juxtaposition
 
-Webserver / command line tool for search of Apo protein structures from Holo froms (and vice versa).
+Webserver / command line tool for customizable search and alignment of **Apo** protein structures from **Holo** forms (and vice versa).
 
 ## Preview
 
@@ -16,4 +16,4 @@ Poster introducing the method: https://www.researchgate.net/publication/35951281
 
 ## Future updates
 
-The project will be released soon as open source on GitHub. :star: or follow for further updates.
+The project will be released soon as open source on GitHub. Hit a :star: or follow this repo for further updates.
