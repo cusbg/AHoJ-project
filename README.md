@@ -7,7 +7,7 @@ Webserver / command line tool for search of Apo protein structures from Holo fro
 Preview version is now available at: http://apoholo.projekty.ms.mff.cuni.cz
 
 <p align="center">
-    <img src="https://github.com/cusbg/AHoJ-project/blob/main/img/ahoj-apo-holo-protein-search-webapp-screenshot-2.png?raw=true" width="600" alt="AHoJ: Apo-Holo Protein Search Webapp Screenshot">
+    <img src="https://github.com/cusbg/AHoJ-project/blob/main/img/ahoj-apo-holo-protein-search-webapp-screenshot-3.png?raw=true" width="660" alt="AHoJ: Apo-Holo Protein Search Webapp Screenshot">
 </p>
 
 ## Poster
