@@ -1,14 +1,14 @@
-# :wave: AHoJ: Apo-Holo Protein Search
+# AHoJ: Apo-Holo Protein Search
 
 Webserver & command-line tool for search of **Apo** (unbound) protein structures from **Holo** (bound) forms and vice versa.
 
 ## Features
 
-* customizable search for Apo-Holo pairs in the PDB
-* alignment to the query structure
-* batch mode for fast parallel dataset processing
-* visualization via Molstar and PyMol
-* public documented REST-API
+* **customizable** search for Apo-Holo pairs in the PDB
+* **alignment** to the query structure
+* **batch mode** for fast parallel dataset processing
+* visualization via **Molstar** and **PyMol**
+* public documented **REST-API**
 
 ## Preview
 
