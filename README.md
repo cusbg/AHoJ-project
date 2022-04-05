@@ -1,10 +1,10 @@
 # AHoJ: Apo-Holo Protein Search
 
-Webserver / command line tool for customizable search and alignment of **Apo** protein structures from **Holo** forms (and vice versa).
+Webserver / command line tool for customizable search of **Apo** protein structures from **Holo** forms (and vice versa).
 
 ## Features
 
-* search for Apo-Holo pairs in the PDB
+* customizable search for Apo-Holo pairs in the PDB
 * alignment to the query structure
 * batch mode for fast parallel dataset processing
 * visualization via Molstar and PyMol
