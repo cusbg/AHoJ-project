@@ -1,4 +1,4 @@
-# AHoJ: Apo-Holo Juxtaposition
+# AHoJ: Apo-Holo Protein Search
 
 Webserver / command line tool for customizable search and alignment of **Apo** protein structures from **Holo** forms (and vice versa).
 
