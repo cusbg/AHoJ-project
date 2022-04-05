@@ -2,6 +2,8 @@
 
 Webserver / command line tool for customizable search and alignment of **Apo** protein structures from **Holo** forms (and vice versa).
 
+Features: search for Apo-Holo pairs in the PDB, batch mode for dataset processing, REST-API.
+
 ## Preview
 
 Preview version is now available at: http://apoholo.projekty.ms.mff.cuni.cz
