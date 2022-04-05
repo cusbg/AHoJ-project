@@ -1,4 +1,4 @@
-# AHoJ: Apo-Holo Protein Search
+# :wave: AHoJ: Apo-Holo Protein Search
 
 Webserver & command-line tool for search of **Apo** (unbound) protein structures from **Holo** (bound) forms and vice versa.
 
