@@ -24,4 +24,4 @@ Poster introducing the method: https://www.researchgate.net/publication/35951281
 
 ## Future updates
 
-The project will be released soon as open source on GitHub. Hit a :star: or follow this repo for further updates.
+The project will be released soon as open source on GitHub. :star: or follow this repo for further updates.
