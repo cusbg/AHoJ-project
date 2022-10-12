@@ -18,7 +18,13 @@ Preview version is now available at: http://apoholo.cz
     <img src="https://github.com/cusbg/AHoJ-project/blob/main/img/ahoj-apo-holo-protein-search-webapp-screenshot-4.png?raw=true" width="660" alt="AHoJ: Apo-Holo Protein Search Webapp Screenshot">
 </p>
 
-## Poster
+## Publications
+
+### Preprint
+
+Preprint on bioarxive: https://doi.org/10.1101/2022.09.05.496878
+
+### Poster
 
 Poster introducing the method: https://www.researchgate.net/publication/359512815_AHoJ_Rapid_tailored_search_and_retrieval_of_apo_and_holo_protein_structures
 
