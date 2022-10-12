@@ -10,7 +10,7 @@ Webserver & command-line tool for search of **Apo** (unbound) protein structures
 * visualization via Molstar and PyMol
 * public documented REST-API
 
-## Webapp
+## Web interface
 
 Web interface is now available at: http://apoholo.cz
 
@@ -18,15 +18,15 @@ Web interface is now available at: http://apoholo.cz
     <img src="https://github.com/cusbg/AHoJ-project/blob/main/img/ahoj-apo-holo-protein-search-webapp-screenshot-4.png?raw=true" width="660" alt="AHoJ: Apo-Holo Protein Search Webapp Screenshot">
 </p>
 
-## Standalone
+## Standalone version
 
-Stand alone python command line application: https://github.com/ioChris/AHoJ
+Stand alone Python command line application: https://github.com/ioChris/AHoJ
 
 ## Publications
 
 ### Preprint
 
-Preprint on biorxiv: https://doi.org/10.1101/2022.09.05.496878
+Preprint on bioRxiv: https://doi.org/10.1101/2022.09.05.496878
 
 ### Poster
 
