@@ -20,7 +20,7 @@ Web interface is now available at: http://apoholo.cz
 
 ## Standalone version
 
-Stand alone Python command line application: https://github.com/ioChris/AHoJ
+Standalone Python command line application: https://github.com/ioChris/AHoJ
 
 ## Publications
 
