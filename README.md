@@ -10,7 +10,7 @@ Webserver & command-line tool for search of **Apo** (unbound) protein structures
 * visualization via Molstar and PyMol
 * public documented REST-API
 
-## Web interface
+## Web version
 
 Web interface is now available at: http://apoholo.cz
 
