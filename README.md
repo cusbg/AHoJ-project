@@ -26,7 +26,7 @@ Standalone Python command line application: https://github.com/ioChris/AHoJ
 
 ### Paper
 
-Article in Bioinformatis: https://doi.org/10.1093/bioinformatics/btac701
+Article in Bioinformatics: https://doi.org/10.1093/bioinformatics/btac701
 
 Preprint on bioRxiv: https://doi.org/10.1101/2022.09.05.496878 
 
