@@ -1,4 +1,4 @@
-# AHoJ: Apo-Holo Protein Search
+# AHoJ & AHoJ-DB: Apo-Holo Protein Search
 
 Webserver & command-line tool for search of **Apo** (unbound) protein structures from **Holo** (bound) forms and vice versa.
 
@@ -22,13 +22,22 @@ Web interface is now available at: http://apoholo.cz
 
 Standalone Python command line application: https://github.com/ioChris/AHoJ
 
+## AHoJ-DB database
+
+https://apoholo.cz/db
+
+AHoJ-DB is a database of pre-computed AHoJ searches for almost all proteins and ligands in the PDB.
+
+
 ## Publications
 
-### Paper
+### Papers
 
-Article in Bioinformatics: https://doi.org/10.1093/bioinformatics/btac701
+If you find AHoJ or AHoJ-DB useful, please cite relevant papers.
 
-Preprint on bioRxiv: https://doi.org/10.1101/2022.09.05.496878 
+AHoJ: [Article](https://doi.org/10.1093/bioinformatics/btac701) 
+
+AHoJ-DB: [Article](https://doi.org/10.1016/j.jmb.2024.168545) 
 
 ### Poster
 
