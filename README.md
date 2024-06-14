@@ -12,7 +12,7 @@ Webserver & command-line tool for search of **Apo** (unbound) protein structures
 
 ## Web version
 
-Web interface is now available at: http://apoholo.cz
+Web interface is now available at: https://apoholo.cz
 
 <p align="center">
     <img src="https://github.com/cusbg/AHoJ-project/blob/main/img/ahoj-apo-holo-protein-search-webapp-screenshot-4.png?raw=true" width="660" alt="AHoJ: Apo-Holo Protein Search Webapp Screenshot">
